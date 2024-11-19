@@ -14,9 +14,16 @@ public class SolarSystem {
         Xros.Radius="34566miles";
         System.out.println("Feature sun added successfully");
 
+
         Planet1 migui=new Planet1();
         migui.color="white";
         migui.radius="12345miles";
+
+        Planet2 kiwi=new Planet2();
+        kiwi.color="blue";
+        kiwi.radius="12345miles";
+
+
 
 
     }
